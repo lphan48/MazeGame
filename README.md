@@ -22,7 +22,6 @@ This project supports Java class file versions 61.0 or higher.
    ```sh
    java -jar MazeGame.jar
    ```
-   ```
 
 
 ## Usage
