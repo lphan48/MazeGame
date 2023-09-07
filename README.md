@@ -25,7 +25,7 @@ This project supports Java class file versions 61.0 or higher.
 
 
 ## Usage
-#### The game begins by animating the generation of a random maze using Kruskal's MST Algorithm:
+#### The game begins by animating the generation of a random maze using Kruskal's MST Algorithm, where each wall in the grid disappears one by one (screenshot captured in the middle of generation):
 <img width="1000" alt="Screenshot 2023-09-07 at 11 54 05 AM" src="https://github.com/lphan48/MazeGame/assets/116211528/96a1aa06-fa67-4f4e-8075-d3575b218736">
 
 ### Once the maze is fully generated, the user can select one of the three ways to solve the maze:
